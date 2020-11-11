@@ -28,4 +28,6 @@ A list of all of the public Discord furry bots ranked from most servers to least
 20 | [Frostbyte](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=bot) | 23 | Robyn the Spoop 🎃#3621 | Unknown 
 21 | [kety Folf's bot 2.0](https://discord.com/oauth2/authorize?client_id=738164170385653802&scope=bot) | 16 | Kety The Folf#0001 & AbnerSquared#2527 | Discord.js
 
+**Note** user tags may not be up to date. 
+
 
