@@ -5,7 +5,7 @@ A list of all of the public Discord furry bots ranked from most servers to least
 ## Furry Discord bot list 
 
 Pos | #No | Bot name | Server count | Trend |  Bot owner | Bot lib
----- | ---- | ---- | ------------- | ----- | ------------ | ---------- | -----------
+--- | --- | -------- | -------------| ----- | ----------- | ---------- |
 = | 1 | [Sheri Blossom](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=bot) | 39,900 | + | Waspyeh#0615 | Discord.py
 = | 2 | [FurBot](https://discord.com/oauth2/authorize?=&client_id=174176308396425217&scope=bot) | 27,200 | + | Phun#0001 | Discordie
 = | 3 | [Furry bot](https://discord.com/oauth2/authorize?client_id=398251412246495233&scope=bot)| 15,400 | + | Donovan_DMC#3621 & August#5820 | Eris
