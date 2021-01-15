@@ -19,7 +19,7 @@ Pos | #No | Bot name | Server count | Trend |  Bot owner | Bot lib
 = | 11 | [OCTAVE](https://discord.com/oauth2/authorize?client_id=501871267968712714&scope=bot) | 225 | - | POLARIS#0003 | Discord.js
 = | 12 | [Frostbyte](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=bot) | 220 | + | Robyn the Spoop 🎃#3621 | Unknown 
 = | 13 | [Fuzzbott](https://discord.com/oauth2/authorize?client_id=730633518992064514&scope=bot) | 210 | - | ☣ Dr. K ☣#0712 & AlekEagle#0001 | Eris
-= | 14 | [Sayce Bot](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=bot) | 178 | + | Kevin123#9973 | Discord.js 
+= | 14 | [Sayce Bot](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=bot) | 178 | + | Kevin123#9973 | Discord.js
 + | 15 | [Wynter](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=bot) | 105 | + | Darkmane Arweinydd#0069 | Discord.js
 - | 16 | [FurBot](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=bot) | 104 | + | BEMZ#1516 | Discord.py
 + | 17 | [Slushie](https://discord.com/oauth2/authorize?client_id=670786019037020188&scope=bot) | 80 | + | Mozza#3247 | Unknown
