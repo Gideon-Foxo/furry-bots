@@ -32,3 +32,5 @@ A list sorted by server (guild) count for veryfied furry Discord bots.
 Also note on 2/27/2021 the change was made to remove non veryfied for sake of not wasting time in tracking down lots of small bots. 
 
 
+We also now have a server, feel free to say hi! https://discord.gg/c4q5GMN2n4
+
