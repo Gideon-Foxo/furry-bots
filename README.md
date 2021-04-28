@@ -24,7 +24,7 @@ Questions? Want to suggest somemthing? Or want to talk or play around with some 
 | + | 13 | [Nami](https://top.gg/bot/747612596982513724) | [323](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | + | PanConKisu#0666 Kyro#9099 | Unknown
 | - | 14 | [Fuzzbott](https://top.gg/bot/730633518992064514) | [320](https://discord.com/oauth2/authorize?client_id=730633518992064514&scope=applications.commands%20bot) | + | RaliDali#0712 & AlekEagle#0001 | Eris
 | + | 15 | [Floof](https://top.gg/bot/780116896775274538) | [178](https://discord.com/oauth2/authorize?client_id=780116896775274538&scope=applications.commands%20bot) | = | WaviestBalloon#1961 | Unknown
-| = | 16 | [FurBot](https://top.gg/bot/716259432878702633) | [161](ttps://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | BEMZ#1516 | Discord.py
+| = | 16 | [FurBot](https://top.gg/bot/716259432878702633) | [161](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | BEMZ#1516 | Discord.py
 | + | 17 | [KitsuneBot](https://discord.bots.gg/bots/738229595626668102) | [140](https://discord.com/oauth2/authorize?client_id=738229595626668102&scope=applications.commands%20bot) | + | Legacy#1831 Dusk#4396 | Unknown
 | - | 18 | [Wynter](https://botsfordiscord.com/bot/548269826020343809) | [133](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | - | D a r k#0069 | Discord.js
 
