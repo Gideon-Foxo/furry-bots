@@ -11,7 +11,7 @@ Questions? Want to suggest somemthing? Or want to talk or play around with some 
 | --- | --- | -------- | -------------| ----- | ----------- | ---------- |
 | = | 1 | [Sheri Blossom](https://discord.bots.gg/bots/346702890368368640) | [45,400](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=applications.commands%20bot) | + | Waspyeh (Account was deleted by tns) | Discord.py
 | = | 2 | [FurBot](https://discord.bots.gg/bots/174186616422662144) | [28,400](https://discord.com/oauth2/authorize?client_id=174176308396425217&scope=applications.commands%20bot) | = | Phun#0001 | Discordie
-| = | 3 | [Furry bot](https://discord.bots.gg/bots/398251412246495233)| [17,100](https://discord.com/oauth2/authorize?=&client_id=398251412246495233&scope=applications.commands%20bot) | = | Donovan_DMC#3621 & August#5820 | Eris
+| = | 3 | [Furry bot](https://discord.bots.gg/bots/398251412246495233)| [17,100](https://discord.com/oauth2/authorize?=&client_id=398251412246495233&scope=applications.commands%20bot) | = | Donovan_DMC#3621 | Eris
 | = | 4 | [Paw bot](https://discord.bots.gg/bots/663823539672973353) | [7,570](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | + | Griefs#9476 | Discord.js
 | = | 5 | [owopup](https://discord.bots.gg/bots/365255872181567489) | [2,440](https://discord.com/oauth2/authorize?client_id=365255872181567489&scope=applications.commands%20bot) | - | Skullbite#3621 | Discord.py
 | = | 6 | [Kettu](https://discord.bots.gg/bots/667131062941384757) | [2,020](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | + | Gideon#4325 & eeehh#2247 & jac.k12#9409 & Ben!#0002 | Discord.js
