@@ -34,7 +34,7 @@ Questions? Need some help? Or just want play around with some of these bots list
 
 ### Limitations and cavorts
 
-> All server count is 'approximate' given its taking from Discords invites which is not live updating. 
+> All server count is 'approximate' given that it is taken from Discords invites which is not live updating. 
 
 > Bot library's maybe be wrong given the nature of development and rewrites. Bot library's are only shown if that info can be found out publicly.
 
