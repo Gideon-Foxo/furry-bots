@@ -1,15 +1,16 @@
 # furry-bots
 
-A list of all public and verified Furry Discord bots. Click on the bots name to be taken to their listing page or click on their server count for a driect invite.
+A list of all publicly maintained and verified Furry Discord bots. Click on the bots **name** to be taken to their listing or click on the bots **server count** for a direct  invite.
 
-Questions? Want to suggest somemthing? Or want to talk or play around with some of these bots? Come join us on our [Discord Server](https://discord.gg/c4q5GMN2n4)!
+Questions? Need some help? Or just want play around with some of these bots listed here then come join our server [Discord Server](https://discord.gg/c4q5GMN2n4)!
+
 
 
 ## Furry Discord Bot List 
 
-| Pos | #No | Bot name | Server count | Growth |  Bot owner | Bot lib
+| Pos | #No | Bot name | Server count | Growth | Bot owner | Bot lib
 | --- | --- | -------- | -------------| ----- | ----------- | ---------- |
-| = | 1 | [Sheri Blossom](https://discord.bots.gg/bots/346702890368368640) | [47,600](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=applications.commands%20bot) | + | Waspyeh (Account was deleted by tns) | Discord.py
+| = | 1 | [Sheri Blossom](https://discord.bots.gg/bots/346702890368368640) | [47,600](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=applications.commands%20bot) | + | Waspyeh (Account deleted by tns) | Discord.py
 | = | 2 | [FurBot](https://discord.bots.gg/bots/174186616422662144) | [29,000](https://discord.com/oauth2/authorize?client_id=174176308396425217&scope=applications.commands%20bot) | + | Phun#0001 | Discordie
 | + | 3 | [Paw bot](https://discord.bots.gg/bots/663823539672973353) | [8,760](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | + | Griefs#9476 | Discord.js
 | + | 4 | [owopup](https://discord.bots.gg/bots/365255872181567489) | [2,420](https://discord.com/oauth2/authorize?client_id=365255872181567489&scope=applications.commands%20bot) | = | Skullbite#3621 | Discord.py
@@ -31,6 +32,22 @@ Questions? Want to suggest somemthing? Or want to talk or play around with some 
 
 
 
-**Note** user tags may not be up to date. 
+### Limitations and cavorts
 
-Also note on 2/27/2021 the change was made to remove non veryfied for sake of not wasting time in tracking down lots of small bots.
+> All server count is 'approximate' given its taking from Discords invites which is not live updating. 
+
+> Bot library's maybe be wrong given the nature of development and rewrites. Bot library's are only shown if that info can be found out publicly.
+
+> User discrims may not be up to date given the nature of Discord.
+
+### Discontinued/shut down bots
+
+[Furry Bot](https://discord.com/oauth2/authorize?client_id=398251412246495233&scope=applications.commands%20bot), [Aave](https://discord.com/oauth2/authorize?client_id=486185195989368852&scope=applications.commands%20bot), and [Slushie](https://discord.com/oauth2/authorize?client_id=670786019037020188&scope=applications.commands%20bot) 
+
+### Reporting issues/Contact
+
+If you need to report something or contact us please either [submit an issue](https://github.com/Gideon-foxo/furry-bots/issues/new) or [join our Discord server](https://discord.gg/c4q5GMN2n4).
+
+### Other
+
+On 2/27/2021 the change was made to remove non verified for sake of not wasting time in tracking down lots of very small bots.
