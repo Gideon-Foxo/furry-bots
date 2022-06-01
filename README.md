@@ -21,16 +21,16 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 9 | [Nami](https://top.gg/bot/747612596982513724) | [696](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | + | PanConKisu#0666 Kyro#9099 | Unknown
 | = | 10 | [OwO Bot](https://top.gg/bot/517201738646945803) | [587](https://discord.com/oauth2/authorize?client_id=517201738646945803&scope=applications.commands%20bot) | - | Grummus#6969 | Unknown
 | = | 11 | [Furry Trash ^-^](https://top.gg/bot/417900655601254420) | [559](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | + | Raspberry the Pink Kitten#2786 & koya#4041 & AdamorfuX#6421 | Discord.py
-| = | 12 | [Sauce Bot](https://discord.bots.gg/bots/730158145489338409) | [555](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=applications.commands%20bot) | + | Kevin123#6666 | Discord.js
-| = | 13 | [BOOPER](https://discord.bots.gg/bots/759083323275608096) | [524](https://discord.com/oauth2/authorize?client_id=759083323275608096&scope=applications.commands%20bot) | = | JerryFox #0001 | Discord.js
-| = | 14 | [Frostbyte](https://discord.boats/bot/732233716604076075) | [516](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) | - | royal mail bomb department#3621 & 🌸Luna🌸#1114 | Discord.py
+| + | 12 | [Sauce Bot](https://discord.bots.gg/bots/730158145489338409) | [555](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=applications.commands%20bot) | + | Kevin123#6666 | Discord.js
+| + | 13 | [BOOPER](https://discord.bots.gg/bots/759083323275608096) | [524](https://discord.com/oauth2/authorize?client_id=759083323275608096&scope=applications.commands%20bot) | = | JerryFox #0001 | Discord.js
+| - | 14 | [Frostbyte](https://discord.boats/bot/732233716604076075) | [516](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) | - | royal mail bomb department#3621 & 🌸Luna🌸#1114 | Discord.py
 | = | 15 | [FurBot](https://top.gg/bot/716259432878702633) | [486](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | - | BEMZ#1516 | Discord.py
 | = | 16 | [Wynter](https://discords.com/bots/bot/548269826020343809) | [257](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | + | D a r k#0069 | Discord.js
 | = | 17 | [Felix.Hug](https://top.gg/bot/950449870647492658) | [246](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | Felix#0004 | Discord.py
 | = | 18 | [KitsuneBot](https://discord.bots.gg/bots/738229595626668102) | [204](https://discord.com/oauth2/authorize?client_id=738229595626668102&scope=applications.commands%20bot) | + | Legacy#1831 Dusk#4396 | Unknown
 | = | 19 | [ProtoByte](https://top.gg/bot/877347193328111666) | [164](https://discord.com/oauth2/authorize?client_id=877347193328111666&scope=applications.commands%20bot) | + | WaviestBalloon#1961 | Discord.js
-| = | 20 | [EPRO](https://top.gg/bot/823554361397215294) | [151](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | + | DEVAN ✨#1713 & Brother#3725 | Discord.js
-| = | 21 | [KarinaTwo](https://top.gg/bot/793530706319114261) | [144](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
+| + | 20 | [EPRO](https://top.gg/bot/823554361397215294) | [151](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | + | DEVAN ✨#1713 & Brother#3725 | Discord.js
+| - | 21 | [KarinaTwo](https://top.gg/bot/793530706319114261) | [144](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
 
 
 ### Limitations and cavorts
