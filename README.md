@@ -28,8 +28,8 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 16 | [KitsuneBot] | [220](https://discord.com/oauth2/authorize?client_id=738229595626668102&scope=applications.commands%20bot) | = | Legacy#1831 Dusk#4396 | Unknown
 | = | 17 | [ProtoByte] | [212](https://discord.com/oauth2/authorize?client_id=877347193328111666&scope=applications.commands%20bot) | + | WaviestBalloon#1961 | Discord.js
 | = | 18 | [EPRO] | [181](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | + | DEVAN ✨#1713 & Brother#3725 | Discord.js
-| + | 19 | [HavenBot] | [154](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot) | + | Westernerd#0001 | Unknown
-| - | 20 | [KarinaTwo] | [149](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
+| = | 19 | [HavenBot] | [154](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot) | + | Westernerd#0001 | Unknown
+| = | 20 | [KarinaTwo] | [149](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
 
 
 ### Limitations and cavorts
