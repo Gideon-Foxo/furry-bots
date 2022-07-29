@@ -29,7 +29,9 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 17 | [ProtoByte] | [212](https://discord.com/oauth2/authorize?client_id=877347193328111666&scope=applications.commands%20bot) | + | WaviestBalloon#1961 | Discord.js
 | = | 18 | [EPRO] | [181](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | + | DEVAN ✨#1713 & Brother#3725 | Discord.js
 | = | 19 | [HavenBot] | [154](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot) | + | Westernerd#0001 | Unknown
-| = | 20 | [KarinaTwo] | [149](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
+| = | 20 | [Протогенчик] | [153](https://discord.com/oauth2/authorize?client_id=890645772557746206&scope=applications.commands%20bot) | = | Max Meitner#4549 | Discord.py
+| - | 21 | [KarinaTwo] | [148](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | + | zelferret#2016 | Discord.js
+| = | 22 | [Skyyo] | [139](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | = | Skyy#1234 | Custom
 
 
 ### Limitations and cavorts
@@ -77,3 +79,5 @@ On 2/27/2021 the change was made to remove non verified for sake of not wasting 
 [EPRO]:https://top.gg/bot/823554361397215294
 [KarinaTwo]:https://top.gg/bot/793530706319114261
 [HavenBot]:https://top.gg/bot/688494367807111234
+[Skyyo]:https://discord.bots.gg/bots/877928677109817404
+[Протогенчик]:https://discords.com/bots/bot/890645772557746206
