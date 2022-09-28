@@ -32,6 +32,9 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 20 | [Skyyo] | [173](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | + | Skyy#1234 | Custom
 | = | 21 | [HavenBot] | [158](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot) | = | Westernerd#0001 | Unknown
 | = | 22 | [KarinaTwo] | [153](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot) | - | zelferret#2016 | Discord.js
+| = | 23 | [FurBoi] | [147](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | = | Gideon#4325 | Discord.js
+| = | 24 | [Mr. Zorua] | [115](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | - | Mr. Fox#8874 | DiscordGo 
+| = | 25 | [🐾 Bad Deer 🐾] | [100](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | - | 𝑇𝑜𝑑𝑑𝑦 🌙#8337 & 𝐿𝑢𝑚𝑖𝑛𝑒 🌙#8264 | BDScript & AOI.js
 
 
 ### Limitations and cavorts
@@ -81,3 +84,6 @@ On 2/27/2021 the change was made to remove non verified for sake of not wasting 
 [HavenBot]:https://top.gg/bot/688494367807111234
 [Skyyo]:https://discord.bots.gg/bots/877928677109817404
 [Протогенчик]:https://discords.com/bots/bot/890645772557746206
+[FurBoi]:https://top.gg/bot/990695577547333734
+[🐾 Bad Deer 🐾]:https://top.gg/bot/879514717612310558
+[Mr. Zorua]:https://top.gg/bot/735733344494682124
