@@ -13,9 +13,9 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 1 | [Sheri Blossom] | [62,900](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=applications.commands%20bot) | + | Sam Pawsmith#6015 | Discord.py
 | = | 2 | [Paw bot] | [16,600](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | + | Griefs#9476 | Discord.js
 | = | 3 | [Kettu] | [3,590](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | + | Gideon#4325 & eeehh#2247 & jac.k12#9409 & Ben!#0002 | Discord.js
-| + | 5 | [Nyx] | [2,830](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot) | + | Syl#3242 | Eris
-| + | 6 | [Proto] | [2,800](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | + | Rai #3621 | Discord.net
-| - | 4 | [FurExplicitBot] | [2,730](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | Phil | Flipper#3621 | Discord.js
+| + | 4 | [Nyx] | [2,830](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot) | + | Syl#3242 | Eris
+| + | 5 | [Proto] | [2,800](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | + | Rai #3621 | Discord.net
+| - | 6 | [FurExplicitBot] | [2,730](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | Phil | Flipper#3621 | Discord.js
 | = | 7 | [Maid Boye] | [1,800](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | + | Donovan_DMC#3621 | Eris
 | = | 8 | [Felix.Hug] | [1,060](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | Felix#0004 | Discord.py
 | = | 9 | [Nami] | [667](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | + | PanConKisu#0666 Kyro#9099 | Unknown
