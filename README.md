@@ -36,7 +36,7 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 24 | [🐾 Bad Deer 🐾] | [165](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | + | 𝑇𝑜𝑑𝑑𝑦 🌙#8337 & 𝐿𝑢𝑚𝑖𝑛𝑒 🌙#8264 | BDScript & AOI.js
 | = | 25 | [Mr. Zorua] | [134](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | + | Mr. Fox#8874 | DiscordGo 
 | = | 26 | [Comet] | [113](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | = | Mirage#0570 | Unknown 
-| = | 27 | [Kroppy] | [104](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | = | Muffle#4803 | Blxxded#0303 | NextCord 
+| = | 27 | [Kroppy] | [104](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | = | Muffle#4803 & Blxxded#0303 | NextCord 
 | = | 28 | [Isi_AvaliBot] | [78](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | = | и тишина#4169 | Unknown
 
 
