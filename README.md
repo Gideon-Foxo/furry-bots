@@ -11,7 +11,7 @@ Questions? Need some help? Or just want play around with some of these bots list
 | Pos | #No | Bot name | Server count | Growth | Bot owner | Bot lib
 | --- | --- | -------- | -------------| ----- | ----------- | ---------- |
 | = | 1 | [Sheri Blossom] | [62,200](https://discord.com/oauth2/authorize?client_id=346702890368368640&scope=applications.commands%20bot) | - | Sam Pawsmith#6015 | Discord.py
-| = | 2 | [Paw bot] | [17,000](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | + | Griefs#9476 | Discord.js
+| = | 2 | [Paw bot] | [17,000](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | + | Griefs#9476 | Custom
 | = | 3 | [Kettu] | [3,660](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | + | Gideon#4325 & eeehh#2247 & jac.k12#9409 & Ben!#0002 | Discord.js
 | = | 4 | [Proto] | [2,970](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | + | Rai #3621 | Discord.net
 | = | 5 | [Nyx] | [2,910](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot) | + | Syl#3242 | Eris
