@@ -23,7 +23,7 @@ Questions? Need some help? Or just want play around with some of these bots list
 | = | 11 | [Протогенчик] | [828](https://discord.com/oauth2/authorize?client_id=890645772557746206&scope=applications.commands%20bot) | + | Max Meitner#4549 | Discord.py
 | = | 12 | [Nami] | [659](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | - | PanConKisu#0666 Kyro#9099 | Unknown
 | = | 13 | [OwO Bot] | [628](https://discord.com/oauth2/authorize?client_id=517201738646945803&scope=applications.commands%20bot) | = | Grummus#6969 | Unknown
-| = | 14 | [Frostbyte] | [591](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) | + | royal mail bomb department#3621 & 🌸Luna🌸#1114 | Discord.py
+| = | 14 | [Frostbyte] | [591](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) | + | Robyn-Dawn#0418 & Leaf#1950 & 🌸Luna🌸#1114 | Discord.py
 | = | 15 | [Furry Trash ^-^] | [510](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | + | Raspberry the Pink Kitten#2786 & koya#4041 & AdamorfuX#6421 | Discord.py
 | = | 16 | [FurBot] | [478](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | - | BEMZ#1516 | Discord.py
 | = | 17 | [FurBoi] | [397](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | + | Gideon#4325 | Discord.js
