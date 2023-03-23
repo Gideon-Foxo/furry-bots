@@ -90,7 +90,7 @@ If you need to contact us or report an issue please either [submit an issue](htt
 [KarinaTwo]:https://top.gg/bot/793530706319114261
 [HavenBot]:https://top.gg/bot/688494367807111234
 [Skyyo]:https://discord.bots.gg/bots/877928677109817404
-[Протогенчик]:https://discords.com/bots/bot/890645772557746206
+[Protogenchik]:https://discords.com/bots/bot/890645772557746206
 [FurBoi]:https://top.gg/bot/990695577547333734
 [🐾 Bad Deer 🐾]:https://top.gg/bot/879514717612310558
 [Mr. Zorua]:https://top.gg/bot/735733344494682124
