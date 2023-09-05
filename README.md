@@ -9,28 +9,28 @@ Questions? Need some help? Or just want play around with some of these bots list
 | Pos | #No | Bot name | Server count | Growth | Bot owner | Bot lib
 | --- | --- | -------- | -------------| ----- | ----------- | ---------- |
 | = | 1 | [Paw bot] | [18,700](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | = | griefs | Custom
-| = | 2 | [Sheri Blossom] | [12,800](https://discord.com/oauth2/authorize?client_id=911836896429232148&scope=applications.commands%20bot) | + | sampawsmith | Discord.py
-| = | 3 | [Proto] | [4,380](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | - | __rai__ | Discord.net
-| = | 4 | [Kettu] | [4,310](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | + | gideon_foxo & dawnniie & jac.k12 & index.ts | Custom
-| = | 5 | [Nyx] | [3,800](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot) | + | syl.sln | Eris
-| = | 6 | [FurExplicitBot] | [3,730](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | the.phil. | Discord.js
-| = | 7 | [Felix.Hug] | [2,580](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | felix.dev | Discord.py
-| = | 8 | [Maid Boye] | [2,040](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | - | donovan_dmc | Eris
-| = | 9 | [FurBoi] | [794](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | + | gideon_foxo | Discord.js
-| = | 10 | [FurBot] | [668](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | bemzlabs | Discord.py
-| = | 11 | [Furry Trash ^-^] | [619](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | - | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
-| = | 12 | [🐾 Bad Deer 🐾] | [487](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | + | imtoddy & imlumine | BDScript & AOI.js
-| = | 13 | [CandyBot] | [485](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | fabidagwec | Unknown
-| = | 14 | [Kroppy] | [478](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | + | muffle & blxxded | NextCord 
-| = | 15 | [Wynter] | [386](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | = | purefurrytrash | Discord.js
-| = | 16 | [Comet] | [380](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | miragemaws | Unknown
-| = | 17 | [EPRO] | [229](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | = | devers_ & Brother#3725 | Discord.js
-| + | 18 | [Skyyo] | [220](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | = | skyycc | Custom
-| - | 19 | [Mr. Zorua] | [217](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | - | imfoxer | DiscordGo 
-| = | 20 | [ladyXL] | [171](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
-| + | 21 | [Roo] | [105](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | roofox | Discord.py
-| + | 22 | [FluffyRanger] | [100](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | + | lacosst0 | Pycord
-| - | 23 | [Isi_AvaliBot] | [98](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | - | isi_de_sa | Unknown
+| = | 2 | [Sheri Blossom] | [13,000](https://discord.com/oauth2/authorize?client_id=911836896429232148&scope=applications.commands%20bot) | + | sampawsmith | Discord.py
+| = | 3 | [Proto] | [4,370](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | - | \__rai__ | Discord.net
+| = | 4 | [Kettu] | [4,340](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | + | gideon_foxo & dawnniie & jac.k12 & index.ts | Custom
+| + | 5 | [FurExplicitBot] | [3,820](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | the.phil. | Discord.js
+| - | 6 | [Nyx] | [3,810](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot) | + | syl.sln | Eris
+| = | 7 | [Felix.Hug] | [2,620](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | felix.dev | Discord.py
+| = | 8 | [Maid Boye] | [2,040](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | = | donovan_dmc | Eris
+| = | 9 | [FurBoi] | [847](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | + | gideon_foxo | Discord.js
+| = | 10 | [FurBot] | [670](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | bemzlabs | Discord.py
+| = | 11 | [Furry Trash ^-^] | [623](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | + | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
+| + | 12 | [CandyBot] | [539](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | fabidagwec | Unknown
+| + | 13 | [Kroppy] | [506](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | + | muffle & blxxded | NextCord 
+| - | 14 | [🐾 Bad Deer 🐾] | [492](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | + | imtoddy & imlumine | BDScript & AOI.js
+| + | 15 | [Comet] | [396](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | miragemaws | Unknown
+| - | 16 | [Wynter] | [385](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | - | purefurrytrash | Discord.js
+| = | 17 | [EPRO] | [228](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | - | devers_ & Brother#3725 | Discord.js
+| = | 18 | [Skyyo] | [226](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | + | skyycc | Custom
+| = | 19 | [Mr. Zorua] | [220](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | + | imfoxer | DiscordGo 
+| = | 20 | [ladyXL] | [183](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
+| = | 21 | [Roo] | [107](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | roofox | Discord.py
+| = | 22 | [FluffyRanger] | [99](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | -| lacosst0 | Pycord
+| = | 23 | [Isi_AvaliBot] | [98](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | = | isi_de_sa | Unknown
 
 
 <h1 align="center">Limitations and Cavorts</h1>
@@ -64,7 +64,7 @@ If you need to contact us or report an issue please either [submit an issue](htt
 [Sheri Blossom]:https://discord.bots.gg/bots/346702890368368640
 [Paw bot]:https://discord.bots.gg/bots/663823539672973353
 [Kettu]:https://discord.bots.gg/bots/667131062941384757
-[Nyx]:https://discord.bots.gg/bots/600206352916414464
+[Nyx]:https://discord.com/application-directory/600206352916414464
 [FurExplicitBot]:https://discord.bots.gg/bots/534828939198070824
 [Proto]:https://discord.bots.gg/bots/724601984241369100
 [Maid Boye]:https://top.gg/bot/879918811791388705
