@@ -31,7 +31,7 @@ Questions? Need some help? Or just want play around with some of these bots list
 | - | 21 | [ladyXL] | [187](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
 | - | 22 | [Roo] | [108](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | roofox | Discord.py
 | - | 23 | [Isi_AvaliBot] | [98](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | = | isi_de_sa | Unknown
-| - | 24 | [FluffyRanger] | [91](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | -| lacosst0 | Pycord
+| - | 24 | [FluffyRanger] | [91](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | - | lacosst0 | Pycord
 
 
 <h1 align="center">Limitations and Cavorts</h1>
@@ -95,3 +95,4 @@ If you need to contact us or report an issue please either [submit an issue](htt
 [ladyXL]:https://top.gg/bot/987571118690955294
 [CandyBot]:https://top.gg/bot/989439821380476990
 [FluffyRanger]:https://discordbotlist.com/bots/fluffyranger
+[Felix.AI]:https://top.gg/bot/1139632229044199444
