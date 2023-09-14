@@ -95,4 +95,4 @@ If you need to contact us or report an issue please either [submit an issue](htt
 [ladyXL]:https://top.gg/bot/987571118690955294
 [CandyBot]:https://top.gg/bot/989439821380476990
 [FluffyRanger]:https://discordbotlist.com/bots/fluffyranger
-[Felix.AI]:https://top.gg/bot/1139632229044199444
+[Felix.AI]:https://discord.com/application-directory/1139632229044199444
