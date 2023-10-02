@@ -31,7 +31,7 @@ Questions? Need some help? Or just want to play around with some of these bots l
 | = | 21 | [ladyXL] | [201](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
 | = | 22 | [Roo] | [118](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | roofox | Discord.py
 | + | 23 | [FluffyRanger] | [99](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | + | lacosst0 | Pycord
-| - | 23 | [Isi_AvaliBot] | [97](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | - | isi_de_sa | Unknown
+| - | 24 | [Isi_AvaliBot] | [97](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | - | isi_de_sa | Unknown
 
 
 
