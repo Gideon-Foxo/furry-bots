@@ -29,7 +29,7 @@ Questions? Need some help? Or just want to play around with some of these bots l
 | = | 19 | [EPRO] | [224](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | - | devers_ & Brother#3725 | Discord.js
 | = | 20 | [Mr. Zorua] | [222](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | - | imfoxer | DiscordGo 
 | = | 21 | [ladyXL] | [200](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | - | ladygalletita | Discord.js
-| = | 22 | [Roo] | [118](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | = | roofox | Discord.py
+| = | 22 | [Roo] | [118](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | = | roofox | Pycord 
 | + | 23 | [Isi_AvaliBot] | [97](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot) | = | isi_de_sa | Unknown
 | - | 24 | [FluffyRanger] | [84](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | - | lacosst0 | Pycord
 
