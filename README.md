@@ -19,8 +19,8 @@ Questions? Need some help? Or just want to play around with some of these bots l
 | = | 9 | [FurBoi] | [973](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | + | gideon_foxo | Discord.js
 | = | 10 | [Felix.AI] | [786](https://discord.com/api/oauth2/authorize?client_id=1139632229044199444&scope=applications.commands%20bot) | + | felix.dev | Discord.py
 | = | 11 | [FurBot] | [718](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | - | bemzlabs | Discord.py
-| = | 12 | [Furry Trash ^-^] | [619](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | - | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
-| = | 13 | [CandyBot] | [625](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | fabidagwec | Unknown
+| + | 12 | [CandyBot] | [625](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | fabidagwec | Unknown
+| - | 13 | [Furry Trash ^-^] | [619](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | - | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
 | = | 14 | [Kroppy] | [576](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | + | muffle & blxxded | NextCord 
 | = | 15 | [🐾 Bad Deer 🐾] | [499](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | + | imtoddy & imlumine | BDScript & AOI.js
 | = | 16 | [Comet] | [445](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | miragemaws | Unknown
