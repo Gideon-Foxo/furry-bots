@@ -25,8 +25,8 @@ Questions? Need some help? Or just want to play around with some of these bots l
 | = | 15 | [Comet] | [559](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | miragemaws | Unknown
 | = | 16 | [🐾 Bad Deer 🐾] | [509](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | - | imtoddy & imlumine | BDScript & AOI.js
 | = | 17 | [Wynter] | [419](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | + | purefurrytrash | Discord.js
-| - | 18 | [Skyyo] | [230](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | = | skyycc | Custom
-| + | 19 | [ladyXL] | [231](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
+| + | 18 | [ladyXL] | [231](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
+| - | 19 | [Skyyo] | [230](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot) | = | skyycc | Custom
 | = | 20 | [Mr. Zorua] | [223](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot) | - | imfoxer | DiscordGo 
 | = | 21 | [EPRO] | [216](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot) | = | devers_ & Brother#3725 | Discord.js
 | = | 22 | [Roo] | [135](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | roofox | Pycord
