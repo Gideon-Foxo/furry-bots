@@ -2,7 +2,7 @@
 
 <p align="center">A list of all publicly available and maintained verified Furry Discord bots currently in 100 or more servers. </p>
 
-<p align="center"> [Discord Server] | [Intake Server] | [Donate](https://foxo.gay/donate) </p> 
+[Discord Server] | [Intake Server] | [Donate](https://foxo.gay/donate)
 
 
 | Pos | #No | Bot name | Server count | Growth | User App | Bot owner | Bot lib
