@@ -1,41 +1,35 @@
 <h1 align="center">Furry Bot List</h1>
 
-A list of all publicly available and verified Furry Discord bots currently maintained. Click on the bots **name** for a listing page or click on the bots **server count** for a direct invite without permissions.
+<p align="center">A list of all publicly available and maintained verified Furry Discord bots currently in 100 or more servers. </p>
 
-Questions? Need some help? Or just want to play around with some of these bots listed here? Then come join our server [Discord Server]! We also have an [Intake Server] for bots that are being monitored but do not meet the requirements to be listed.
-
-
-
-| Pos | #No | Bot name | Server count | Growth | Bot owner | Bot lib
-| --- | --- | -------- | -------------| ----- | ----------- | ---------- |
-| = | 1 | [Paw bot] | [18,800](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | = | griefs | Custom
-| = | 2 | [Sheri Blossom] | [15,400](https://discord.com/oauth2/authorize?client_id=911836896429232148&scope=applications.commands%20bot) | + | sampawsmith | Discord.py
-| = | 3 | [FurExplicitBot] | [5,890](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | the.phil. | Discord.js
-| = | 4 | [Kettu] | [4,700](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | - | gideon_foxo & dawnniie & jac.k12 & index.ts | Custom
-| = | 5 | [Proto] | [4,250](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | - | \_\_rai__ | Discord.net
-| = | 6 | [Felix.Hug] | [3,340](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | felix.dev | Discord.py
-| = | 7 | [FoxyTail] | [3,020](https://discord.com/oauth2/authorize?client_id=716682147749953616&scope=applications.commands%20bot) | + | zootopie | Unknown
-| = | 8 | [Maid Boye] | [2,090](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | + | donovan_dmc | Eris
-| = | 9 | [FurBoi] | [1,150](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | = | gideon_foxo | Discord.js
-| = | 10 | [CandyBot] | [1,040](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | fabidagwec | Unknown
-| = | 11 | [FurBot] | [949](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | bemzlabs | Discord.py
-| = | 12 | [Comet] | [897](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | miragemaws | Unknown
-| + | 13 | [Kroppy] | [738](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | + | muffle & blxxded | NextCord 
-| - | 14 | [Nami] | [737](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | - | panconkisu | Unknown
-| = | 15 | [Furry Trash ^-^] | [657](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | - | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
-| = | 16 | [🐾 Bad Deer 🐾] | [506](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | = | imtoddy & imlumine | BDScript & AOI.js
-| = | 17 | [Proty] | [481](https://discord.com/oauth2/authorize?client_id=1169730126402039890&scope=applications.commands%20bot) | + | heywi | Unknown
-| = | 18 | [Wynter] | [438](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | - | purefurrytrash | Discord.js
-| = | 19 | [Furry] | [257](https://discord.com/oauth2/authorize?client_id=1256087992829739059&scope=applications.commands%20bot) | + | gob.pe | Discord.js
-| - | 20 | [ladyXL] | [250](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | ladygalletita | Discord.js
-| = | 21 | [Roo] | [181](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | cyan_emberfox | Unknown
-| + | 22 | [FluffyRanger] | [99](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | + | lacosst0 | Pycord
-| + | 22 | [Katua] | [99](https://discord.com/oauth2/authorize?client_id=1251191594757914644&scope=applications.commands%20bot) | + | nekomancer0 | Unknown
-| - | 23 | [Artifacts] | [97](https://discord.com/oauth2/authorize?client_id=1205104382283096064&scope=applications.commands%20bot) | - | flioris | Unknown
-| = | 24 | [FluffBoost] | [64](https://discord.com/oauth2/authorize?client_id=1152416549261561856&scope=applications.commands%20bot) | + | mrdemonwolf | Discord.js
+<p align="center"> [Discord Server] | [Intake Server] | [Donate](https://foxo.gay/donate) </p> 
 
 
-
+| Pos | #No | Bot name | Server count | Growth | User App | Bot owner | Bot lib
+| --- | --- | -------- | -------------| ----- | ----- | ----------- | ---------- |
+| = | 1 | [Paw bot] | [18,800](https://discord.com/oauth2/authorize?client_id=663823539672973353&scope=applications.commands%20bot) | = | No | griefs | Custom
+| = | 2 | [Sheri Blossom] | [15,400](https://discord.com/oauth2/authorize?client_id=911836896429232148&scope=applications.commands%20bot) | = | No | sampawsmith | Discord.py
+| = | 3 | [FurExplicitBot] | [6,010](https://discord.com/oauth2/authorize?=&client_id=534828939198070824&scope=applications.commands%20bot) | + | No | the.phil. | Discord.js
+| = | 4 | [Kettu] | [4,700](https://discord.com/oauth2/authorize?client_id=667131062941384757&scope=applications.commands%20bot) | = | No | gideon_foxo & dawnniie & jac.k12 & index.ts | Custom
+| = | 5 | [Proto] | [4,240](https://discord.com/oauth2/authorize?client_id=724601984241369100&scope=applications.commands%20bot) | - | No | \_\_rai__ | Discord.net
+| = | 6 | [Felix.Hug] | [3,350](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | No | felix.dev | Discord.py
+| = | 7 | [FoxyTail] | [3,030](https://discord.com/oauth2/authorize?client_id=716682147749953616&scope=applications.commands%20bot) | + | No | zootopie | Unknown
+| = | 8 | [Maid Boye] | [2,090](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | = | No | donovan_dmc | Eris
+| = | 9 | [FurBoi] | [1,140](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | - | [Yes](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands&integration_type=1) | gideon_foxo | Discord.js
+| = | 10 | [CandyBot] | [1,060](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | No | fabidagwec | Unknown
+| = | 11 | [FurBot] | [950](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | + | [Yes](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands&integration_type=1) | bemzlabs | Discord.py
+| = | 12 | [Comet] | [899](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | + | No | miragemaws | Unknown
+| = | 13 | [Kroppy] | [752](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | + | No | muffle & blxxded | NextCord 
+| = | 14 | [Nami] | [738](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands%20bot) | + | [Yes](https://discord.com/oauth2/authorize?client_id=747612596982513724&scope=applications.commands&integration_type=1) | panconkisu | Unknown
+| = | 15 | [Furry Trash ^-^] | [659](https://discord.com/oauth2/authorize?client_id=417900655601254420&scope=applications.commands%20bot) | + | No | raspberrykitty1 & discor.dalternative & markos6439 | Discord.py
+| = | 16 | [🐾 Bad Deer 🐾] | [510](https://discord.com/oauth2/authorize?client_id=879514717612310558&scope=applications.commands%20bot) | + | No | imtoddy & imlumine | BDScript & AOI.js
+| = | 17 | [Proty] | [477](https://discord.com/oauth2/authorize?client_id=1169730126402039890&scope=applications.commands%20bot) | - | No | heywi | Unknown
+| = | 18 | [Wynter] | [443](https://discord.com/oauth2/authorize?client_id=548269826020343809&scope=applications.commands%20bot) | + | No | purefurrytrash | Discord.js
+| = | 19 | [Furry] | [253](https://discord.com/oauth2/authorize?client_id=1256087992829739059&scope=applications.commands%20bot) | - | No | gob.pe | Discord.js
+| = | 20 | [ladyXL] | [253](https://discord.com/oauth2/authorize?client_id=987571118690955294&scope=applications.commands%20bot) | + | No | ladygalletita | Discord.js
+| = | 21 | [Roo] | [183](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) | + | [Yes](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands&integration_type=1) | cyan_emberfox | Unknown
+| + | 22 | [Katua] | [109](https://discord.com/oauth2/authorize?client_id=1251191594757914644&scope=applications.commands%20bot) | + | No | nekomancer0 | Unknown
+| - | 23 | [FluffyRanger] | [100](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) | + | No | lacosst0 | Pycord
 
 
 
@@ -43,23 +37,27 @@ Questions? Need some help? Or just want to play around with some of these bots l
 
 > All server count is 'approximate' given that it is taken from Discord invites which is not live updating.
 
-> Bot libraries might become out of date given the nature of development and rewrites. Bot libraries are only shown if that info can be found out publicly.
+> User Apps can not be counted as the only way to check an apps user install count is in their Discord developer portal.
 
-> User discriminators may not be up to date given the nature of Discord.
+> Bot libraries might become out of date given the nature of development and rewrites. Bot libraries are only shown if that info can be found out publicly or if the developer informs us.
 
-<h1 align="center">Discontinued/Shut Down Bots</h1>
+> User names might become out of date.
 
-[FurBot](https://discord.com/oauth2/authorize?client_id=174176308396425217&scope=applications.commands%20bot), [Sauce Bot](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=applications.commands%20bot), [Furry Bot](https://discord.com/oauth2/authorize?client_id=398251412246495233&scope=applications.commands%20bot), [owopup](https://discord.com/oauth2/authorize?client_id=365255872181567489&scope=applications.commands%20bot), [Fuzzbott](https://discord.com/oauth2/authorize?client_id=730633518992064514&scope=applications.commands%20bot), [Aave](https://discord.com/oauth2/authorize?client_id=486185195989368852&scope=applications.commands%20bot), [Floof](https://discord.com/oauth2/authorize?client_id=780116896775274538&scope=applications.commands%20bot), [Slushie](https://discord.com/oauth2/authorize?client_id=670786019037020188&scope=applications.commands%20bot), [EPRO](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot), [Mr. Zorua](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot), [Felix.AI](https://discord.com/api/oauth2/authorize?client_id=1139632229044199444&scope=applications.commands%20bot), [Skyyo](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot), [OwO Bot](https://discord.com/oauth2/authorize?client_id=517201738646945803&scope=applications.commands%20bot), [ProtoByte](https://discord.com/oauth2/authorize?client_id=877347193328111666&scope=applications.commands%20bot), [Protogenchik](https://discord.com/oauth2/authorize?client_id=890645772557746206&scope=applications.commands%20bot), [Isi_AvaliBot](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot), [HavenBot](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot), [KitsuneBot](https://discord.com/oauth2/authorize?client_id=738229595626668102&scope=applications.commands%20bot), [KarinaTwo](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot), [Nyx](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot), [BOOPER](https://discord.com/oauth2/authorize?client_id=759083323275608096&scope=applications.commands%20bot), [Frostbyte](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) and [Thaldrin](https://discord.com/oauth2/authorize?client_id=434662676547764244&scope=applications.commands%20bot)
+<h1 align="center">List Requirements</h1>
 
-<h1 align="center">Contact/Questions/Report Issues</h1>
+To be added to this list, bots must meet the following requirements:
 
-If you need to contact us or report an issue please either [submit an issue](https://github.com/Gideon-foxo/furry-bots/issues/new) or join our [Discord Server].
+- Needs to be verified by Discord, be in 100 or more servers, and be publicly inevitable by anyone
 
-<h1 align="center">Change Log</h1>
+- The bots main purpose must be furry oriented
 
-2/12/2023 A second [Intake Server] was created to split bots on this list from bots being monitored. This was mainly done because of Discords 50 app limit for slash commands in servers.
+- Must not blatantly violate Discords developer terms of service (needs real privacy policy, terms of service, can not run NSFW commands in SFW channels, ect)
 
-2/27/2021 The change was made to remove non-verified for the sake of not wasting time in tracking down lots of very small bots.
+- The bot needs to be online the majority of the time. Uptime is checked prior to being added and every time the list gets updated
+
+- Majority of its commands need to be functional without any obvious exploits or abuses
+
+Bots are examined and tested in an [Intake Server] before they can get added to the list and moved into the main [Discord Server]. Both servers are public for any user to join to see the testing, however the intake server is read only for moderation reasons.
 
 
 <!-- Markdown Links -->

@@ -1,0 +1,16 @@
+<h1 align="center">Bot Change Log</h1>
+
+> Here you can find a list of bots being added and removed from the list.
+
+
+
+
+
+
+
+<h2 align="center">Legacy List</h2>
+
+This list was maintained until 14/12/2024. Lots of the links below will link to "Unknown applications" because many developers did not renew their ID with Discord so Discord forced these bots to get deleted.
+
+
+[FurBot](https://discord.com/oauth2/authorize?client_id=174176308396425217&scope=applications.commands%20bot), [Sauce Bot](https://discord.com/oauth2/authorize?client_id=730158145489338409&scope=applications.commands%20bot), [Furry Bot](https://discord.com/oauth2/authorize?client_id=398251412246495233&scope=applications.commands%20bot), [owopup](https://discord.com/oauth2/authorize?client_id=365255872181567489&scope=applications.commands%20bot), [Fuzzbott](https://discord.com/oauth2/authorize?client_id=730633518992064514&scope=applications.commands%20bot), [Aave](https://discord.com/oauth2/authorize?client_id=486185195989368852&scope=applications.commands%20bot), [Floof](https://discord.com/oauth2/authorize?client_id=780116896775274538&scope=applications.commands%20bot), [Slushie](https://discord.com/oauth2/authorize?client_id=670786019037020188&scope=applications.commands%20bot), [EPRO](https://discord.com/oauth2/authorize?client_id=823554361397215294&scope=applications.commands%20bot), [Mr. Zorua](https://discord.com/oauth2/authorize?client_id=735733344494682124&scope=applications.commands%20bot), [Felix.AI](https://discord.com/api/oauth2/authorize?client_id=1139632229044199444&scope=applications.commands%20bot), [Skyyo](https://discord.com/oauth2/authorize?client_id=877928677109817404&scope=applications.commands%20bot), [OwO Bot](https://discord.com/oauth2/authorize?client_id=517201738646945803&scope=applications.commands%20bot), [ProtoByte](https://discord.com/oauth2/authorize?client_id=877347193328111666&scope=applications.commands%20bot), [Protogenchik](https://discord.com/oauth2/authorize?client_id=890645772557746206&scope=applications.commands%20bot), [Isi_AvaliBot](https://discord.com/oauth2/authorize?client_id=876515016143147110&scope=applications.commands%20bot), [HavenBot](https://discord.com/oauth2/authorize?client_id=688494367807111234&scope=applications.commands%20bot), [KitsuneBot](https://discord.com/oauth2/authorize?client_id=738229595626668102&scope=applications.commands%20bot), [KarinaTwo](https://discord.com/oauth2/authorize?client_id=793530706319114261&scope=applications.commands%20bot), [Nyx](https://discord.com/oauth2/authorize?client_id=600206352916414464&scope=applications.commands%20bot), [BOOPER](https://discord.com/oauth2/authorize?client_id=759083323275608096&scope=applications.commands%20bot), [Frostbyte](https://discord.com/oauth2/authorize?client_id=732233716604076075&scope=applications.commands%20bot) and [Thaldrin](https://discord.com/oauth2/authorize?client_id=434662676547764244&scope=applications.commands%20bot)
