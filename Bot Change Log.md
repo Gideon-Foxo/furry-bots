@@ -3,9 +3,7 @@
 > Here you can find a list of bots being added and removed from the list.
 
 
-
-
-
+14/12/2024 [Artifacts](https://discord.com/oauth2/authorize?client_id=1205104382283096064&scope=applications.commands%20bot) and [FluffBoost](https://discord.com/oauth2/authorize?client_id=1152416549261561856&scope=applications.commands%20bot) where removed for being below the 100 server threshold.
 
 
 <h2 align="center">Legacy List</h2>
