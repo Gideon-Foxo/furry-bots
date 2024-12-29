@@ -3,6 +3,8 @@
 > Here you can find a list of bots being added and removed from the list.
 
 
+29/12/2024 [FurryVerse Bot](https://discord.com/oauth2/authorize?client_id=1131388328403546164&scope=applications.commands%20bot) Was added after meeting the listing requirements. [FoxyTail](https://discord.com/oauth2/authorize?client_id=716682147749953616&scope=applications.commands%20bot) was removed for no longer being maintained. [Proty](https://discord.com/oauth2/authorize?client_id=1169730126402039890&scope=applications.commands%20bot) was removed as the bot was deleted. 
+
 14/12/2024 [Artifacts](https://discord.com/oauth2/authorize?client_id=1205104382283096064&scope=applications.commands%20bot) and [FluffBoost](https://discord.com/oauth2/authorize?client_id=1152416549261561856&scope=applications.commands%20bot) where removed for being below the 100 server threshold.
 
 
