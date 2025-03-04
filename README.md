@@ -15,7 +15,7 @@
 | = | 6 | [Felix.Hug] | [3,380](https://discord.com/oauth2/authorize?client_id=950449870647492658&scope=applications.commands%20bot) | + | No | felix.dev | Discord.py
 | = | 7 | [Maid Boye] | [2,100](https://discord.com/oauth2/authorize?client_id=879918811791388705&scope=applications.commands%20bot) | = | No | donovan_dmc | Eris
 | = | 8 | [FurBoi] | [1,230](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands%20bot) | + | [Yes](https://discord.com/oauth2/authorize?client_id=990695577547333734&scope=applications.commands&integration_type=1) | gideon_foxo | Discord.js
-| = | 9 | [CandyBot] | [1,100](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | No | fabidagwec | Unknown
+| = | 9 | [CandyBot] | [1,100](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands%20bot) | + | [Yes](https://discord.com/oauth2/authorize?client_id=989439821380476990&scope=applications.commands&integration_type=1) | fabidagwec | Hikari
 | = | 10 | [FurBot] | [943](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) | - | [Yes](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands&integration_type=1) | bemzlabs | Discord.py
 | = | 11 | [Comet] | [908](https://discord.com/oauth2/authorize?client_id=678719240290828289&scope=applications.commands%20bot) | = | No | miragemaws | Unknown
 | = | 12 | [Kroppy] | [755](https://discord.com/oauth2/authorize?client_id=875974356633788436&scope=applications.commands%20bot) | - | No | muffle & blxxded | NextCord 
