@@ -2,7 +2,10 @@
 
 > Here you can find a list of bots being added and removed from the list.
 
-28/4/2025[FurryVerse](https://discord.com/oauth2/authorize?client_id=1131388328403546164&scope=applications.commands%20bot) Was removed for being offline for an extended period of time.
+18/10/2025 [Roo](https://discord.com/oauth2/authorize?client_id=675609879083483136&scope=applications.commands%20bot) Was removed as the application has been deleted.
+[Felli Maid](https://discord.com/oauth2/authorize?client_id=1091305514505342987&scope=applications.commands%20bot) Was added as it meet the requires and has been stable.
+
+28/4/2025 [FurryVerse](https://discord.com/oauth2/authorize?client_id=1131388328403546164&scope=applications.commands%20bot) Was removed for being offline for an extended period of time.
 
 18/3/2025 [FurBot](https://discord.com/oauth2/authorize?client_id=716259432878702633&scope=applications.commands%20bot) Was removed for being offline for an extended period of time. [Katua](ttps://discord.com/oauth2/authorize?client_id=1251191594757914644&scope=applications.commands%20bot) Was removed for being offline for an extended period of time. [FluffyRanger](https://discord.com/oauth2/authorize?client_id=1018122677526994964&scope=applications.commands%20bot) Was removed for being too small. [Cheryl](https://discord.com/oauth2/authorize?client_id=940369423125061633&scope=applications.commands%20bot) Eas added.
 
